@@ -1,2 +1,2 @@
 # commit-signoff
-Updated 2
+Update
